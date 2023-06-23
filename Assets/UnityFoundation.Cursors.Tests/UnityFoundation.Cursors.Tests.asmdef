@@ -1,0 +1,23 @@
+{
+    "name": "UnityFoundation.Cursors.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1dffb094c2e665346be997395af6021e",
+        "GUID:ee632bd84aa2b4847bd460cd8b16734d",
+        "GUID:56de67b70740b014a8b08bb241006e29"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "Moq.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

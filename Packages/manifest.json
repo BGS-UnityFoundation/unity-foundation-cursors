@@ -11,6 +11,8 @@
     "com.unity.timeline": "1.6.4",
     "com.unity.ugui": "1.0.0",
     "com.unity.visualscripting": "1.8.0",
+    "coop.unityfoundation.code": "https://github.com/BrunoBiluca/unity-foundation-code.git?path=/Assets/UnityFoundation.Code",
+    "coop.unityfoundation.testutility": "https://github.com/BrunoBiluca/unity-foundation-code.git?path=/Assets/UnityFoundation.TestUtility",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",

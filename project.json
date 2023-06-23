@@ -1,12 +1,12 @@
 {
-    "name": "UnityFoundation.Code",
-    "version": "0.1.0",
-    "package_file": "./Assets/UnityFoundation.Code/package.json",
-    "unity_package": {
-        "name": "unityfoundation-code",
-        "path": "Builds",
-        "export_folders": [
-            "Assets/UnityFoundation.Code"
-        ]
-    }
+  "name": "UnityFoundation.Cursors",
+  "version": "0.1.0",
+  "package_file": "./Assets/UnityFoundation.Cursors/package.json",
+  "unity_package": {
+    "name": "unityfoundation-cursors",
+    "path": "Builds",
+    "export_folders": [
+      "Assets/UnityFoundation.Cursors"
+    ]
+  }
 }

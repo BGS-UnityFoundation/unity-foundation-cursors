@@ -1,0 +1,16 @@
+{
+    "name": "UnityFoundation.Cursors.Samples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ee632bd84aa2b4847bd460cd8b16734d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
